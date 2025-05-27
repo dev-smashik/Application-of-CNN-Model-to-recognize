@@ -38,5 +38,4 @@ We used the **CMATERdb 3.1.2** dataset, which contains 32,000 grayscale images o
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/bangla-character-cnn.git
-   cd bangla-character-cnn
+   git clone https://github.com/dev-smashik/Application-of-CNN-Model-to-recognize.git
